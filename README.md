@@ -5,7 +5,7 @@ A final project of the Vanilla JS course
 ## Features
 
 - [x] Clock
-- [x] To Do List
+- [x] Task List
 - [x] Weather
 - [x] Daily Photo
 
