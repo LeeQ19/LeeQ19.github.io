@@ -1,0 +1,12 @@
+.js-todoList {
+  margin-bottom: 20px;
+}
+
+.js-todo {
+  font-size: 22px;
+}
+
+.js-todoButton {
+  margin-right: 10px;
+  cursor: pointer;
+}

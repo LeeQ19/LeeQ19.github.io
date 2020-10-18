@@ -1,0 +1,12 @@
+@import url("https://fonts.googleapis.com/css?family=Open+Sans");
+@import "clock.css";
+@import "main.css";
+@import "name.css";
+@import "weather.css";
+@import "todo.css";
+
+.center {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
