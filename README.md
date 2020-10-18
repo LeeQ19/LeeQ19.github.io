@@ -1,4 +1,4 @@
-# Momonton
+# Main
 
 A final project of the Vanilla JS course
 
