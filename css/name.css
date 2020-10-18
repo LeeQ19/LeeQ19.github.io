@@ -1,4 +1,4 @@
-.name__input {
+.js-nameInput {
   appearance: none;
   background: none;
   border: none;
@@ -8,21 +8,21 @@
   margin-bottom: 20px;
 }
 
-.name__input::placeholder {
+.js-nameInput::placeholder {
   color: white;
   opacity: 0.7;
 }
 
-.name__input:focus,
-.name__input:active {
+.js-nameInput:focus,
+.js-nameInput:active {
   outline: none;
 }
 
-.name__text {
+.js-nameText {
   font-size: 36px;
   margin-bottom: 20px;
 }
 
-.name {
-  margin-bottom: 30px;
+.js-name {
+  margin-bottom: 50px;
 }

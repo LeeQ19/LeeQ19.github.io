@@ -3,7 +3,7 @@
 @import "main.css";
 @import "name.css";
 @import "weather.css";
-@import "todo.css";
+@import "task.css";
 
 .center {
   display: flex;

@@ -1,0 +1,19 @@
+.js-pendingTitle,
+.js-finishedTitle {
+  display: none;
+  margin-top: 20px;
+}
+
+.js-pending,
+.js-finished {
+  margin-top: 20px;
+}
+
+.js-task {
+  font-size: 22px;
+}
+
+.js-taskButton {
+  margin-right: 10px;
+  cursor: pointer;
+}
