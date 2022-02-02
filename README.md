@@ -11,4 +11,4 @@ A final project of the Vanilla JS course
 
 ## Try it out
 
-[https://leeq19.github.io/main/](https://leeq19.github.io/main/)
+[https://leeq19.github.io/ToDoList/](https://leeq19.github.io/ToDoList/)
