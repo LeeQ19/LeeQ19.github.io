@@ -1,4 +1,4 @@
-const unsplashApiKey = "mifkBWXlaiHdXGWmdCJE0RMxsR_af_JNpLSAxw6ygqE",
+const unsplashApiKey = "unsplashApiKey",
 unsplashUrl = `https://api.unsplash.com/photos/random/?client_id=${unsplashApiKey}&query=landscape&orientation=landscape`;
 
 const body = document.querySelector("body");
